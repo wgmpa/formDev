@@ -1,7 +1,7 @@
 {
   "name": "form",
   "version": "0.1.0",
-  "homepage": "formDev/",
+  "homepage": "./",
   "private": true,
   "dependencies": {
     "@testing-library/react": "^13.4.0",
