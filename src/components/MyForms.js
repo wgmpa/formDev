@@ -20,13 +20,7 @@ function MyForms({ user }) {
 
   const handleSubmit = (event) => {
     event.preventDefault()
-    console.log("enviando form");
-    console.log(name);
-    console.log(email);
-    console.log(desc);
-    console.log(rol);
-
-
+   
     setName("")
     setEmail("")
     setDesc("")
